@@ -13,7 +13,7 @@ This project uses face recognition to automate the attendance marking process. T
 
 1. Clone this repository:
     ```bash
-    git clone 
+    git clone https://github.com/Thasniem/AICTE-Thasniem-Fathima
     ```
 
 2. Install dependencies:
